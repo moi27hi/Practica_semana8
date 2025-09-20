@@ -20,4 +20,12 @@ for cadena in lista:
 
 print('Fin del programa')
 
+
+
+marcas_telefonos = ['Samsung', 'Apple', 'Huawei', 'Xiaomi', 'Motorola']
+
+for marca in marcas_telefonos:
+    print(f'Tengo un telefono marca: {marca}.')
+    
+
     
